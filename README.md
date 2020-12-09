@@ -20,7 +20,7 @@
 
 ## 2. Quantum Physics
 
-- Relativamente a Quantum Physics o primeiro assunto que vamos falar será sobre os Quantum Bits.
+- Relativamente a Física Quântica o primeiro assunto que vamos falar será sobre os Quantum Bits.
 - O que difere um Computador Clássico de um Computador Quântico é a forma como os seus Bits funcionam.
 - Os Quantum Bits têm a estranha propriedade de poderem representar valores diferentes no mesmo momento. Fazendo com que N Bits possam representar eles mesmos 2^N sequências diferentes ao mesmo tempo. Proponho-vos com isto o seguinte exercício.
 
@@ -49,7 +49,7 @@ Foi realizada pela China a seguinte experiência.
 ## 3. Theory Of Relativity
 
 - Agora vamos falar sobre a Teoria da Relatividade de Albert Einstein. Esta Teoria defende que o tempo é relativo, ou seja, o tempo não passa de uma forma constante para todas as pessoas, mas depende sim, da velocidade em que as pessoas se encontram. Ou seja, se uma pessoa estiver a mover-se a 10 Km/h e outra a 20 Km/h, o tempo estará a passar mais devagar para a que se está a mover mais rápido. E isto, deve-se ao facto da Velocidade da Luz ser constante. Porquê?
-- Ora suponhamos, temos aqui um carro a mover-se a 20 Km/h, vamos supor que nós estamos dentro dele, se ao nosso lado se encontrar outro carro também a mover-se a 20 Km/h, para nós ele está a mover-se a 0 Km/h. Suponhamos agora que estamos a viajar à mesma velocidade mas ao nosso lado em vez de um carro, está um raio de luz, sendo a velocidade da luz constante então o raio está a mover-se a C Km/h, e agora pergunto-vos, a que velocidade está o raio de luz a mover-se da nossa perspectiva? C Km/h também. Como é isto possível?
+- Ora suponhamos, temos aqui um carro a mover-se a 20 Km/h, vamos supor que nós estamos dentro dele, se ao nosso lado se encontrar outro carro também a mover-se a 20 Km/h, para nós ele está a mover-se a 0 Km/h. Suponhamos agora que estamos a viajar à mesma velocidade mas ao nosso lado em vez de um carro, está um raio de luz, sendo a velocidade da luz constante então o raio está a mover-se a C Km/h, e agora pergunto-vos, a que velocidade acham que está o raio de luz a mover-se da nossa perspectiva? C Km/h também, pois a perspectiva que possuimos da velocidade da luz é também ela constante. Como é então isto possível?
 - Foi então que Albert Einstein presumiu, se a velocidade é igual à distância a dividir pelo tempo, então, tem que ser o tempo que está abrandar.
 
 ## 4. Big Brain Moment
